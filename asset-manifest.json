@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/anandu-k-c/TechMaster-eduweb/static/css/main.62a91b94.css",
-    "main.js": "/anandu-k-c/TechMaster-eduweb/static/js/main.11f3e3a2.js",
-    "static/js/787.d013b629.chunk.js": "/anandu-k-c/TechMaster-eduweb/static/js/787.d013b629.chunk.js",
-    "static/media/tc.png": "/anandu-k-c/TechMaster-eduweb/static/media/tc.66e132f330fd312fe176.png",
-    "static/media/meta.jpeg": "/anandu-k-c/TechMaster-eduweb/static/media/meta.7e3f88a1b4640d37c922.jpeg",
-    "static/media/miya.jpg": "/anandu-k-c/TechMaster-eduweb/static/media/miya.cfeb40c12ffb25457bb8.jpg",
-    "static/media/footer.png": "/anandu-k-c/TechMaster-eduweb/static/media/footer.c784afd004b3e6047ce1.png",
-    "static/media/sd.png": "/anandu-k-c/TechMaster-eduweb/static/media/sd.0897abc962b9843e2ae7.png",
-    "static/media/logo.png": "/anandu-k-c/TechMaster-eduweb/static/media/logo.65749854c4ae99d45f7f.png",
-    "static/media/dg.png": "/anandu-k-c/TechMaster-eduweb/static/media/dg.9624ed4cc0ac7f4e8024.png",
-    "static/media/ai.png": "/anandu-k-c/TechMaster-eduweb/static/media/ai.0b1f4f6f49e69c33509f.png",
-    "index.html": "/anandu-k-c/TechMaster-eduweb/index.html",
-    "main.62a91b94.css.map": "/anandu-k-c/TechMaster-eduweb/static/css/main.62a91b94.css.map",
-    "main.11f3e3a2.js.map": "/anandu-k-c/TechMaster-eduweb/static/js/main.11f3e3a2.js.map",
-    "787.d013b629.chunk.js.map": "/anandu-k-c/TechMaster-eduweb/static/js/787.d013b629.chunk.js.map"
+    "main.css": "/TechMaster-eduweb/static/css/main.62a91b94.css",
+    "main.js": "/TechMaster-eduweb/static/js/main.9a567eea.js",
+    "static/js/787.d013b629.chunk.js": "/TechMaster-eduweb/static/js/787.d013b629.chunk.js",
+    "static/media/tc.png": "/TechMaster-eduweb/static/media/tc.66e132f330fd312fe176.png",
+    "static/media/meta.jpeg": "/TechMaster-eduweb/static/media/meta.7e3f88a1b4640d37c922.jpeg",
+    "static/media/miya.jpg": "/TechMaster-eduweb/static/media/miya.cfeb40c12ffb25457bb8.jpg",
+    "static/media/footer.png": "/TechMaster-eduweb/static/media/footer.c784afd004b3e6047ce1.png",
+    "static/media/sd.png": "/TechMaster-eduweb/static/media/sd.0897abc962b9843e2ae7.png",
+    "static/media/logo.png": "/TechMaster-eduweb/static/media/logo.65749854c4ae99d45f7f.png",
+    "static/media/dg.png": "/TechMaster-eduweb/static/media/dg.9624ed4cc0ac7f4e8024.png",
+    "static/media/ai.png": "/TechMaster-eduweb/static/media/ai.0b1f4f6f49e69c33509f.png",
+    "index.html": "/TechMaster-eduweb/index.html",
+    "main.62a91b94.css.map": "/TechMaster-eduweb/static/css/main.62a91b94.css.map",
+    "main.9a567eea.js.map": "/TechMaster-eduweb/static/js/main.9a567eea.js.map",
+    "787.d013b629.chunk.js.map": "/TechMaster-eduweb/static/js/787.d013b629.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62a91b94.css",
-    "static/js/main.11f3e3a2.js"
+    "static/js/main.9a567eea.js"
   ]
 }
