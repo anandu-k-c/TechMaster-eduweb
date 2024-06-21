@@ -1,0 +1,40 @@
+.footer {
+    padding: 50px 0;
+    background: #eeeaff;
+    margin-top: auto;
+}
+
+.footer_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    column-gap: 2rem;
+}
+
+.footer_box {
+    width: 30%;
+}
+
+.footer_box p {
+    line-height: 1.5rem;
+    margin-top: 10px;
+}
+
+.footer_title {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    margin-left: 35px;
+}
+
+.footer_links li {
+    line-height: 28px;
+    color: var(--heading-color);
+}
+
+.footer_links li a {
+    cursor: pointer;
+}
+
+.footer_links li a:hover {
+    color: var(--primary-color);
+}
